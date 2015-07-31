@@ -52,7 +52,7 @@ phrases, and episodes. See Tutorial below.
 
 ## Examples
 
-Simply by typing (load "dd"), you can run the LOVERS1 experience.
+Simply by typing `(load "dd")`, you can run the LOVERS1 experience.
 
 Here is how this trace begins:
 
@@ -165,19 +165,19 @@ new context is sprouted in which the top-level goal for ENTERTAINMENT
 is connected to a subgoal for M-MOVIE. This context becomes the new
 reality context.
 
-To see the full trace, type (load "dd").
+To see the full trace, type `(load "dd")`.
 
 ## Instructions
 
 GATE and DAYDREAMER run best compiled. To compile GATE, do
-(load "gate_compile"). To compile DAYDREAMER, do (load "dd_compile").
+`(load "gate_compile")`. To compile DAYDREAMER, do `(load "dd_compile")`.
 
 To run the LOVERS1 experience, a rationalization daydream, and a revenge
-daydream, type (load "dd").
+daydream, type `(load "dd")`.
 
-Alternatively, to run a GATE test suite, do (load "gate_test"). To load
-GATE, do (load "gate_get"). To load DAYDREAMER, first load GATE and then
-do (load "dd_get"). Then to run DAYDREAMER, type (daydreamer).
+Alternatively, to run a GATE test suite, do `(load "gate_test")`. To load
+GATE, do `(load "gate_get")`. To load DAYDREAMER, first load GATE and then
+do `(load "dd_get")`. Then to run DAYDREAMER, type `(daydreamer)`.
 
 ## Tutorial
 
@@ -263,11 +263,7 @@ Then enter the following into a file called `hello_world.cl`:
        subject))
 ```
 
-(For more information on defining rules, take a look at
-href(Extending DAYDREAMER,http://www.signiform.com/erik/programs/daydreamer/ddextend.htm) and the
-href(GATE tutorial,http://www.signiform.com/erik/programs/daydreamer/gate.htm).)
-
-Now start up Allegro CL, and type the following:
+Now start up Lisp and type the following:
 
 ```
   > (load "hello_world.cl")
@@ -404,7 +400,7 @@ DAYDREAMER will produce the following output:
   Parser>
 ```
 
-At this point, DAYDREAMER is asking for input. Just type ``end'' and
+At this point, DAYDREAMER is asking for input. Just type `end` and
 hit Enter.
 
 ```
@@ -491,5 +487,5 @@ hit Enter.
 ## Book
 
 Essential reading for anyone who wants to understand, use, or
-extend DAYDREAMER: Daydreaming in Humans and Machines
+extend DAYDREAMER: *Daydreaming in Humans and Machines*
 http://www.amazon.com/gp/product/1478137266/
