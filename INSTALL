@@ -4,10 +4,6 @@ in the book:
 Mueller, Erik T. (1990). Daydreaming in humans and machines: A
 computer model of the stream of thought. Norwood, NJ: Ablex.
 
-and the web site:
-
-http://www.signiform.com/erik/programs/daydreamer/
-
 This code is subject to the LICENSE in this directory.
 
 To run Daydreamer and GATE, start up a Common Lisp in this directory.
