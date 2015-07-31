@@ -6,7 +6,7 @@ http://www.amazon.com/gp/product/1478137266/
 
 Copyright 1984, 1985, 1986, 1987, 1988, 1999, 2004, 2015 Erik T. Mueller.
 
-Daydreamer is a trademark of Erik T. Mueller.
+DAYDREAMER is a trademark of Erik T. Mueller.
 
 All brand names and product names are the trademarks or registered
 trademarks of their respective owners and/or manufacturers.
